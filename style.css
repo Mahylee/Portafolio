@@ -200,13 +200,13 @@
     margin: 10px;
   }
   
-  /* Testimonios */
+  /* Proyectos */
   
-  .testimonios {
+  .proyectos {
     padding: 40px 40px 80px 40px;
   }
   
-  .testimonios .carousel {
+  .proyectos .carousel {
     max-width: 800px;
   }
   
@@ -223,33 +223,33 @@
     justify-content: center;
   }
   
-  .testimonio-imagen {
+  .proyecto-imagen {
     height: 150px;
     width: 150px;
     margin: 10px 10px 20px 10px;
   }
   
-  .testimonio-texto {
+  .proyecto-texto {
     max-width: 70%;
     font-size: 20px;
     text-align: center;
     font-family: 'Share Tech Mono', monospace;
   }
   
-  .testimonio-info {
+  .proyecto-info {
     font-weight: bold;
     text-align: center;
   }
   
-  .testimonio-info p {
+  .proyecto-info p {
     margin-bottom: 0;
   }
   
-  .testimonio-footer .cliente {
+  .proyecto-footer .cliente {
     font-size: 1.2rem;
   }
   
-  .testimonio-info .cargo {
+  .proyecto-info .cargo {
     font-size: 0.9rem;
     color: #656060;
   }
